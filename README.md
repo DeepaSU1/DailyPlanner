@@ -1,7 +1,7 @@
 # DailyPlanner
 
 <picture>
-<img src= "./assets/myquizapp.PNG">
+<img src= "./assets/myworkscheduler.PNG">
 </picture>
 
 ## Description
