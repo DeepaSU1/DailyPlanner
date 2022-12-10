@@ -1,7 +1,7 @@
 # DailyPlanner
 
 <picture>
-<img src= "./assets/myworkscheduler.PNG">
+<img src= "./assets/Myworkscheduler.PNG">
 </picture>
 
 ## Description
